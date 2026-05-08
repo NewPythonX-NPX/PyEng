@@ -46,7 +46,7 @@ A: Never, ever should you delete pyeng_cli.py, pyeng_transpiler.py, pyeng.bat. T
 
 ## 🔵 Extra & Community
 
-> **🔒 Security Note:** If the Discord server owner is not `@horimiya_lover8053`, the server is not affiliated with the official NewPythonX Studios. Stay safe and only join official links!
+> **🔒 Security Note:** If the Discord server owner user id is not `1236734895577894943`  or `1250418429156917408`, the server is not affiliated with the official NewPythonX Studios. Stay safe and only join official links!
 
 * 💬 [Join the NewPythonX Discord](https://discord.gg/6SvNjbkcAN)
 * 💬 [Join the PyEng Discord](COMING SOON)
