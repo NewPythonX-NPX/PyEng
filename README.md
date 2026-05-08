@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&width=1000&height=300&section=header&text=PYENG&fontSize=90&fontAlignY=35&animation=twinkling&desc=Python%20If%20It%20Wasn't%20Made%20By%20People%20Who%20Hate%20You&descSize=20&descAlignY=60" />
 </p>
 
---
-
 # 🎁 PyEng
 
 ---
