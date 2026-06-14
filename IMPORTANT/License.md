@@ -1,30 +1,40 @@
---------------------------------------------------------------
-# 📜 NewPythonX Studio - Official License
-Project: PyEng
+# NewPythonX Studio – Developer License
 
-Last Updated: May 1st 2026
+ Last updated: 14th of June, 2026
 
-Founder: @horimiya_lover8053 on Discord
+  Copyright © 2026 NewPythonX Studio. All rights reserved.
 
-Legal Jurisdiction: Germany (DE) - GDPR Compliant
+ This license is governed by the laws of Germany and respects the GDPR (General Data Protection Regulation).
 
-Copyright (c) 2026 @horimiya_lover8053 & NewPythonX Studio
-All rights reserved.
+## Overview
+You are free to study, learn from, and modify the source code, as long as you follow all the rules below.
 
---------------------------------------------------------------
+## Rules You Must Follow
+**Give credit.**
+If you use any part of this code, or if your project is heavily based on our logic, you must clearly credit @horimiya_lover8053 and NewPythonX Studio.
 
-Disclaimer:
-The source code is open for everyone to study, learn from, and use ONLY if you follow the rules within this file.
+**Don’t use our name or logo.**
+You may not use the name “NewPythonX Studio” or our logo without our permission. If you do, we will enforce our copyright and trademark rights.
 
-🔴 Non-Negotiable License Rules
+**No responsibility.**
+This software is provided “as is.” NewPythonX Studio and Hori are not responsible for any crashes, bugs, or problems that happen while using this launcher.
 
-Mandatory Credit: If you use any part of this code, or if your project is "Heavily Inspired" by my logic, 
-you must give clear credit to @horimiya_lover8053 and NewPythonX Studio.
+**Modification is allowed, but at your own risk.**
+You can change the code for your own use. However, if your modified version turns into a cheat tool or violates Roblox’s Terms of Service, we are not responsible. You alone bear all risks, including bans or legal action from Roblox.
 
-Brand & Logo Protection: The "NewPythonX" name and the official logo are the exclusive property of NewPythonX Studio. 
-Using NPX's brand name or logo in your own project will result in an immediate Copyright Strike.
+**Sharing modified versions.**
+You may share a modified version only if:
 
-Commercial Use: You are strictly prohibited from selling this software or using this code for any commercial gain.
+the entire modified project stays under this exact same license, and
 
-No Liability: This software is provided as-is. 
-NewPythonX Studio or Hori is not responsible for any crashes, bugs, that may occur while using this launcher.
+you include a clear notice of the changes you made, placed in the README or somewhere else visible.
+
+**Commercial use**
+You are strictly forbidden from selling this software or using the code to make money in any way.
+
+## Related Documents
+This license should be read together with:
+
+- EULA.md
+
+- README.md
